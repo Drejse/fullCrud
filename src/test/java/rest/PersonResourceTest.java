@@ -37,7 +37,7 @@ import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.Test;
 //Uncomment the line below, to temporarily disable this test
 //@Disabled
-
+/*
 public class PersonResourceTest {
 
     private static final int SERVER_PORT = 7777;
@@ -229,3 +229,4 @@ public class PersonResourceTest {
  
     
 }
+*/
